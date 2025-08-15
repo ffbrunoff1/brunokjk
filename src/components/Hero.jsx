@@ -105,7 +105,7 @@ export default function Hero() {
             >
               <span className="text-gray-900">Olá, eu sou</span>
               <br />
-              <span className="text-black">Bruno KJK</span>
+              <span className="text-black">Fernando KJK</span>
             </motion.h1>
 
             <motion.p
@@ -181,7 +181,7 @@ export default function Hero() {
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-center space-y-4">
                     <BookOpen className="w-16 h-16 text-primary-500 mx-auto" />
-                    <div className="text-2xl font-bold text-gray-700">Bruno KJK</div>
+                    <div className="text-2xl font-bold text-gray-700">Fernando KJK</div>
                     <div className="text-gray-600">Autor de Romance</div>
                   </div>
                 </div>
