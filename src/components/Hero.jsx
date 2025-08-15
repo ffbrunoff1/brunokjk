@@ -105,7 +105,7 @@ export default function Hero() {
             >
               <span className="text-gray-900">Olá, eu sou</span>
               <br />
-              <span className="text-gradient">Bruno KJK</span>
+              <span className="text-black">Bruno KJK</span>
             </motion.h1>
 
             <motion.p
