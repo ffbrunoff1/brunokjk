@@ -60,12 +60,6 @@ export default function Contact() {
 
   const contactInfo = [
     {
-      icon: Mail,
-      title: "Email",
-      content: "ffbrunoff@yahoo.com.br",
-      description: "Respondo em até 24 horas"
-    },
-    {
       icon: Clock,
       title: "Horário de Atendimento",
       content: "Segunda a Sexta",
